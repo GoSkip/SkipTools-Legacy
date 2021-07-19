@@ -30,7 +30,7 @@ dependencies: [
 [View full install guide](https://goskip.github.io/mco/wiki/ios/installation/)
 
 ### Step 1: Download the the latest release of `SkipTools.xcframework.zip`
-- [Releases](https://github.com/GoSkip/ShopperLegacy-SDK/releases)
+- [Releases](https://github.com/GoSkip/SkipTools-Legacy-Source/releases)
 
 ### Step 2: Unzip the `SkipTools.xcframework.zip` file you just downloaded
 
