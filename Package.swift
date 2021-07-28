@@ -23,7 +23,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "SkipTools",
-            url: "https://github.com/GoSkip/SkipTools-Legacy-Source/releases/download/4.1.0/SkipTools-4.1.0.xcframework.zip",
-            checksum: "d18dfdbea34d5c0941d007d1b19e078635be1557c39ecaf9cea2de4727196738")
+            url: "https://github.com/GoSkip/SkipTools-Legacy-Source/releases/download/4.1.1/SkipTools-4.1.1.xcframework.zip",
+            checksum: "a1f8c8ae51ca1dfafaf07aa7f5377d3ca08a15fca57f5981af6253da9a83a1ee")
     ]
 )
