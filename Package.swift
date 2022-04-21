@@ -24,6 +24,6 @@ let package = Package(
         .binaryTarget(
             name: "SkipTools",
             url: "https://github.com/GoSkip/SkipTools-Legacy-Source/releases/download/4.3.2/SkipTools.xcframework.zip",
-            checksum: "31d96ad5e4f283a558a7f6d53de4045ec924fd3cb804056470e0e084fe1e8018")
+            checksum: "a7f44ceadafb7e513c84f8a05566972d0b7247d04adbf394ecdf058ac5ef70f4")
     ]
 )
