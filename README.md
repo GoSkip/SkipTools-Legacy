@@ -22,7 +22,7 @@ Once you have your Swift package set up, adding ShopperLegacy-SDK as a dependenc
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/GoSkip/ShopperLegacy-SDK.git", .upToNextMajor(from: "4.0.0"))
+    .package(url: "https://github.com/GoSkip/SkipTools-Legacy/", .upToNextMajor(from: "4.0.0"))
 ]
 ```
 
